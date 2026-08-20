@@ -1,0 +1,32 @@
+# Backend
+backend/target/
+backend/.idea/
+backend/*.iml
+backend/src/main/resources/application-local.yml
+backend/cp.txt
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+frontend/.env.local
+
+# Secrets / local
+.env
+.env.*
+*.pem
+*.key
+credentials*
+ApiKey*
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+*.tmp
+_out.*
+_ov.*
+_check_*.py
