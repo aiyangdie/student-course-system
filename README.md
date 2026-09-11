@@ -126,6 +126,7 @@ student-course-system/
 - [接口说明](docs/接口说明.md)
 - [系统设计文档](docs/系统设计文档.md)
 - [安全说明](SECURITY.md)
+- [完整开发提示词](docs/完整开发提示词.md)
 
 ## License
 
