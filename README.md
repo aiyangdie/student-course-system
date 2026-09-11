@@ -58,7 +58,10 @@ npm run serve
 
 访问：http://localhost:8080
 
-默认账号：`admin` / `admin123`
+导入官方 SQL 后，可用初始化管理员账号登录（登录页不会展示）：
+
+- 用户名：`admin`
+- 密码：`admin123`
 
 ## 目录
 

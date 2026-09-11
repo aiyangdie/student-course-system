@@ -12,7 +12,6 @@
         </el-form-item>
         <el-button type="primary" style="width:100%" :loading="loading" @click="handleLogin">登 录</el-button>
       </el-form>
-      <div class="tip">默认账号：admin / admin123</div>
     </div>
   </div>
 </template>
@@ -25,7 +24,7 @@ export default {
   data() {
     return {
       loading: false,
-      form: { username: 'admin', password: 'admin123' },
+      form: { username: '', password: '' },
       rules: {
         username: [{ required: true, message: '请输入用户名', trigger: 'blur' }],
         password: [{ required: true, message: '请输入密码', trigger: 'blur' }]
@@ -78,11 +77,5 @@ export default {
   color: #909399;
   margin: 8px 0 28px;
   font-size: 13px;
-}
-.tip {
-  margin-top: 16px;
-  text-align: center;
-  color: #909399;
-  font-size: 12px;
 }
 </style>
