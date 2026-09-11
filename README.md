@@ -1,4 +1,4 @@
-﻿# 学生选课管理系统
+# 学生选课管理系统
 
 基于 **Spring Boot + Vue 2 + Element UI + MySQL** 的前后端分离教务演示系统。
 
@@ -15,45 +15,45 @@
 
 ### 登录
 
-![登录页](docs/screenshots/01-login.png)
+![登录页](https://cdn.jsdelivr.net/gh/aiyangdie/student-course-system@main/screenshots/01-login.png)
 
 ### 首页概览
 
-![首页概览](docs/screenshots/02-dashboard.png)
+![首页概览](https://cdn.jsdelivr.net/gh/aiyangdie/student-course-system@main/screenshots/02-dashboard.png)
 
 ### 学生管理
 
-![学生管理](docs/screenshots/03-student.png)
+![学生管理](https://cdn.jsdelivr.net/gh/aiyangdie/student-course-system@main/screenshots/03-student.png)
 
-![新增学生](docs/screenshots/11-student-dialog.png)
+![新增学生](https://cdn.jsdelivr.net/gh/aiyangdie/student-course-system@main/screenshots/11-student-dialog.png)
 
 ### 教师管理
 
-![教师管理](docs/screenshots/04-teacher.png)
+![教师管理](https://cdn.jsdelivr.net/gh/aiyangdie/student-course-system@main/screenshots/04-teacher.png)
 
 ### 课程信息管理
 
-![课程信息管理](docs/screenshots/05-course.png)
+![课程信息管理](https://cdn.jsdelivr.net/gh/aiyangdie/student-course-system@main/screenshots/05-course.png)
 
 ### 公告信息管理
 
-![公告信息管理](docs/screenshots/06-announcement.png)
+![公告信息管理](https://cdn.jsdelivr.net/gh/aiyangdie/student-course-system@main/screenshots/06-announcement.png)
 
 ### 排课信息管理
 
-![排课信息管理](docs/screenshots/07-schedule.png)
+![排课信息管理](https://cdn.jsdelivr.net/gh/aiyangdie/student-course-system@main/screenshots/07-schedule.png)
 
 ### 选课信息管理
 
-![选课信息管理](docs/screenshots/08-selection.png)
+![选课信息管理](https://cdn.jsdelivr.net/gh/aiyangdie/student-course-system@main/screenshots/08-selection.png)
 
 ### 选课限制管理
 
-![选课限制管理](docs/screenshots/09-limit.png)
+![选课限制管理](https://cdn.jsdelivr.net/gh/aiyangdie/student-course-system@main/screenshots/09-limit.png)
 
 ### 学生成绩管理
 
-![学生成绩管理](docs/screenshots/10-grade.png)
+![学生成绩管理](https://cdn.jsdelivr.net/gh/aiyangdie/student-course-system@main/screenshots/10-grade.png)
 
 ## 技术栈
 
@@ -114,7 +114,8 @@ student-course-system/
 ├── backend/     # Spring Boot
 ├── frontend/    # Vue
 ├── sql/         # 数据库脚本
-├── docs/        # 部署文档、设计文档与界面截图
+├── screenshots/ # 界面截图
+├── docs/        # 部署与设计文档
 ├── SECURITY.md
 └── README.md
 ```
