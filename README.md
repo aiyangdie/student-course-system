@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/covers/50-student-course-system.jpg" alt="student-course-system 项目封面" width="100%"></p>
+
 # 学生选课管理系统
 
 基于 **Spring Boot + Vue 2 + Element UI + MySQL** 的前后端分离教务演示系统。
